@@ -32,6 +32,28 @@ This project presents a Power BI dashboard analyzing medical insurance claims an
 - Risk-level segmentation
 - Claim-to-premium ratio for profitability analysis
 
+## Dashboard Pages & Insights
+
+### 1. Overview – Regional Claims & Policy Cost Analysis
+- Displays total premium collected, total claims paid, and claim ratio.
+- Identifies high-claim regions and profitability gaps.
+- Helps insurers assess regional risk exposure.
+
+### 2. Demographic Impact on Claims & Risk Profile
+- Examines claim amounts by age group, gender, income, and smoking status.
+- Correlates BMI, hospitalization, and risk levels.
+- Supports data-driven underwriting and customer segmentation.
+  
+### 3. Cost Drivers by Insurance Plan Type
+- Analyzes claim costs across PPO, HMO, EPO, and POS plans.
+- Shows procedure-level cost drivers (surgery, lab, imaging, consultation).
+- Identifies plans with higher utilization and claim burden.
+
+### 4. Urban vs Suburban vs Rural Analysis
+- Compares claim frequency and premium contribution across settlement types.
+- Highlights higher claim concentration in urban regions.
+- Useful for region-based pricing and risk segmentation.
+
 ## Business Insights
 - Certain regions exhibit a high claim-to-premium ratio, indicating potential loss-making zones.
 - Urban regions show higher claim frequency compared to rural and suburban areas.
