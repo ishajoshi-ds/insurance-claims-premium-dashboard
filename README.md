@@ -55,9 +55,12 @@ This project presents a Power BI dashboard analyzing medical insurance claims an
 - Useful for region-based pricing and risk segmentation.
 
 ## Business Insights
-- Certain regions exhibit a high claim-to-premium ratio, indicating potential loss-making zones.
-- Urban regions show higher claim frequency compared to rural and suburban areas.
-- High-risk customers contribute disproportionately to total claim amounts.
 
+- Identifies **high-risk regions** with elevated claim-to-premium ratios.
+- Supports **premium pricing and policy design** using urban–suburban–rural trends.
+- Highlights **cost drivers by insurance plan type** (PPO, HMO, EPO, POS).
+- Enables **data-driven underwriting** using demographic and health risk indicators.
+- Helps insurers improve **loss ratio control and overall profitability**.
+  
 ## Conclusion
 This dashboard helps insurers monitor claim behavior, identify loss-prone segments, and improve premium pricing and risk management strategies.
